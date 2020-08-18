@@ -15,3 +15,12 @@ input {
 .Group1 {
     background-color:lightgoldenrodyellow;
 }
+
+.Group2 {
+    font: 12px, bold;
+    background-color: tan;
+    margin-top: 80px;
+    margin: 90x;
+    border: solid red;
+    padding: 60px;
+}
