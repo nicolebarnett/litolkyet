@@ -14,4 +14,8 @@ input {
 }
 .Group1 {
     background-color:lightgoldenrodyellow;
+    margin: 24px;
+    margin-top: 11px;
+    border: solid lightgray;
+    padding: 20px;
 }
